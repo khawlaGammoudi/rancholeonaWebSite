@@ -1,0 +1,11 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|04 Jun 2012 08:47:52 -0000
+vti_extenderversion:SR|5.0.2.4803
+vti_nosourcecontrol:SR|True
+vti_author:SR|ranchol1
+vti_modifiedby:SR|ranchol1
+vti_nexttolasttimemodified:TR|03 Jun 2012 09:46:22 -0000
+vti_timecreated:TR|06 Feb 2010 15:20:20 -0000
+vti_backlinkinfo:VX|
+vti_cacheddtm:TX|04 Jun 2012 08:47:52 -0000
+vti_filesize:IR|418128
